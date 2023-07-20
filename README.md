@@ -1,4 +1,4 @@
-**Here Claude.ai summary with prompts from GoTime's podcast episode 180 featuring Encore.dev**
+**Here Claude.ai summary with prompts from [GoTime's podcast episode 180](https://github.com/thechangelog/transcripts/blob/master/gotime/go-time-180.md) featuring Encore.dev**
 
 **summarize**
 
